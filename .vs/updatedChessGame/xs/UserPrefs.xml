@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{83E14CFB-D96F-45CA-B590-F2F7360A291A}|Default">
+  <MonoDevelop.Ide.ItemProperties.updatedChessGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="updatedChessGame/ChessGameLauncher.cs">
+    <Files>
+      <File FileName="updatedChessGame/ChessGameLauncher.cs" Line="386" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

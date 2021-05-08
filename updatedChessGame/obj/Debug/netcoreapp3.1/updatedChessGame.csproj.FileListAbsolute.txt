@@ -1,0 +1,12 @@
+/Users/almoggutin/Projects/updatedChessGame/updatedChessGame/obj/Debug/netcoreapp3.1/updatedChessGame.csprojAssemblyReference.cache
+/Users/almoggutin/Projects/updatedChessGame/updatedChessGame/obj/Debug/netcoreapp3.1/updatedChessGame.AssemblyInfoInputs.cache
+/Users/almoggutin/Projects/updatedChessGame/updatedChessGame/obj/Debug/netcoreapp3.1/updatedChessGame.AssemblyInfo.cs
+/Users/almoggutin/Projects/updatedChessGame/updatedChessGame/obj/Debug/netcoreapp3.1/updatedChessGame.csproj.CoreCompileInputs.cache
+/Users/almoggutin/Projects/updatedChessGame/updatedChessGame/bin/Debug/netcoreapp3.1/updatedChessGame.deps.json
+/Users/almoggutin/Projects/updatedChessGame/updatedChessGame/bin/Debug/netcoreapp3.1/updatedChessGame.runtimeconfig.json
+/Users/almoggutin/Projects/updatedChessGame/updatedChessGame/bin/Debug/netcoreapp3.1/updatedChessGame.runtimeconfig.dev.json
+/Users/almoggutin/Projects/updatedChessGame/updatedChessGame/bin/Debug/netcoreapp3.1/updatedChessGame.dll
+/Users/almoggutin/Projects/updatedChessGame/updatedChessGame/bin/Debug/netcoreapp3.1/updatedChessGame.pdb
+/Users/almoggutin/Projects/updatedChessGame/updatedChessGame/obj/Debug/netcoreapp3.1/updatedChessGame.dll
+/Users/almoggutin/Projects/updatedChessGame/updatedChessGame/obj/Debug/netcoreapp3.1/updatedChessGame.pdb
+/Users/almoggutin/Projects/updatedChessGame/updatedChessGame/obj/Debug/netcoreapp3.1/updatedChessGame.genruntimeconfig.cache
